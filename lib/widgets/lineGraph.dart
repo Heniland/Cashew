@@ -718,4 +718,4 @@ double measureCurrencyStringExtraWidth(AllWallets allWallets) {
   } else {
     return currencyString.length * 5;
   }
-}
+} 
